@@ -95,7 +95,7 @@ AI-assisted integrated core-data analysis.
 **Biochar Lens & Bioenergy Arabia** — Digitalization and software development
 for carbon-removal and renewable-energy technology projects.
 
-➡️ **[See full project portfolio](https://panjoel4.github.io/)**
+➡️ **[See full project portfolio](https://panjoel4.github.io/portfolio/)**
 
 ---
 
