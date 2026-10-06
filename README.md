@@ -38,7 +38,7 @@ laboratory and field datasets.
 **Geothermal Energy · Scientific Web Application**
 
 Web application integrating subsurface datasets and analytical workflows for
-geothermal analysis and visualization.
+geothermal analysis and visualization. Public access will be available soon. Email me for early access.
 
 **Role:** Project Lead & Developer
 
