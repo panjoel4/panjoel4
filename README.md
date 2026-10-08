@@ -21,7 +21,7 @@ tools for analysis, visualization, and reproducible research.**
 
 ## 🔬 Selected Scientific Software
 
-### LithoLume
+### GeoHySpec
 **Hyperspectral Geoscience · Desktop Application**
 
 Portable application for hyperspectral analysis and mineral characterization
